@@ -1,0 +1,104 @@
+* {
+    border: 1px solid gold;
+ }
+
+ h1 {
+    font-family: serif;
+    text-align: center;
+ }
+
+ .above-the-fold {
+    display: inline-block
+}
+
+.clickbait {
+    display: inline-block;
+    
+}
+ 
+.clickbait.article {
+    width: 250px;
+    margin-top: 16px;
+    margin-left: 16px;
+    margin-bottom: 16px;
+    margin-right: 16px;
+    box-sizing: border-box;
+}
+
+.beyond-the-fold {
+   display: inline-block; 
+ 
+}
+
+.p {
+    font-family: sans-serif;
+ }
+  
+ h3 {
+ font-family: serif;
+ text-align: center;
+}
+
+.weather {
+    width: 300px;  
+    border: gray 2px;
+}
+ 
+
+ h3.p {
+font-size: 40px;
+   }
+ 
+
+ h4 {
+    font-family: serif;
+    text-align: center;
+ }
+
+
+h2 {
+    font-family: serif;
+    text-align: center;
+ }
+
+ h5 {
+    font-family: serif;
+    text-align: center;
+ }
+
+ a:link {
+    color: #4242AE;
+    text-decoration: none;
+}
+ 
+ul {
+    list-style: none;
+}
+
+footer.div > li {
+     font-weight: 700;
+   }
+
+.breaking-news {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-image-width: 200px;
+}
+
+.beyond-the-fold.img {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    width: 200px;
+}
+
+.beyond-the-fold.div {
+width: 500px;
+}
